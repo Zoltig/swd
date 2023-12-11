@@ -1,0 +1,11 @@
+/* Importing base styles, components, and utilities */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom styles */
+@layer utilities {
+  body {
+    
+  }
+}
